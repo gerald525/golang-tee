@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/treeder/easy-go-in-docker/Godeps/_workspace/src/github.com/gorilla/mux"
+	"github.com/gerald525/easy-go-in-docker/Godeps/_workspace/src/github.com/gorilla/mux"
 )
 
 func main() {

@@ -6,7 +6,7 @@ This example is an web server that prints Hello World and ends up in a **4.7MB**
 
 ## 0. Clone this repo into your GOPATH
 
-Clone it into `$GOPATH/src/github.com/treeder`.
+Clone it into `$GOPATH/src/github.com/gerald525`.
 
 And be sure you have [godep](https://github.com/tools/godep) installed to vendor dependencies. Install it with `go get github.com/tools/godep`.
 
